@@ -179,6 +179,7 @@ body {
   position: relative;
   color: rgb(12, 9, 9);
   background: rgb(12, 9, 9);
+  max-width: unset;
 }
 .flashlight__text {
   padding: 100px 0;
